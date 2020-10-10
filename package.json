@@ -1,0 +1,32 @@
+{
+  "name": "facebook-post-automater",
+  "version": "1.0.1",
+  "description": "This module will automate your facebook post.",
+  "main": "facaebook-post-automater.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sid111293/facaebook-post-automater.git"
+  },
+  "keywords": [
+    "facebook",
+    "automate",
+    "bot",
+    "puppet",
+    "puppeteer",
+    "puppeteer-core",
+    "automater",
+    "facebook-post-automater"
+  ],
+  "author": "Sachin Tripathi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sid111293/facaebook-post-automater/issues"
+  },
+  "homepage": "https://github.com/sid111293/facaebook-post-automater#readme",
+  "dependencies": {
+    "puppeteer": "^5.3.1"
+  }
+}
